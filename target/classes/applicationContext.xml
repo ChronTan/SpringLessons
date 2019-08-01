@@ -11,4 +11,9 @@
           class="springcourse.ClassicalMusic">
     </bean>
 
+    <bean id="mBean"
+          class="springcourse.RockMusic">
+    </bean>
+
+
 </beans>
