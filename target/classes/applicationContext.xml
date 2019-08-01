@@ -7,8 +7,20 @@
         http://www.springframework.org/schema/context
         http://www.springframework.org/schema/context/spring-context.xsd">
 
-    <bean id="musicBean"
+    <bean id="classicalMusicBean"
           class="springcourse.ClassicalMusic">
+        <constructor-arg value="Misha"/>
+    </bean>
+
+    <bean id="rockMusicBean"
+    class="springcourse.RockMusic">
+
+    </bean>
+
+    <bean id="musicPlayer"
+    class="springcourse.MusicPlayer">
+        <constructor-arg ref="classicalMusicBean"/>
+
     </bean>
 
     <bean id="mBean"

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b3fe59c4-2157-45de-b915-e25973a8271c" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="b3fe59c4-2157-45de-b915-e25973a8271c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springcourse/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springcourse/ClassicalMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springcourse/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springcourse/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springcourse/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springcourse/RockMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springcourse/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+    </list>
+>>>>>>> e7afdc1... teting dependency injection
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +38,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="272">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
+=======
+            <state relative-caret-position="357">
+              <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+>>>>>>> e7afdc1... teting dependency injection
             </state>
           </provider>
         </entry>
@@ -36,8 +52,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/springcourse/TestSpring.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="255">
               <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+=======
+            <state relative-caret-position="238">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+>>>>>>> e7afdc1... teting dependency injection
             </state>
           </provider>
         </entry>
@@ -54,9 +75,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/springcourse/ClassicalMusic.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="102">
               <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
               <folding>
+=======
+            <state relative-caret-position="340">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+              <folding>
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+>>>>>>> e7afdc1... teting dependency injection
                 <element signature="e#408#409#0" expanded="true" />
               </folding>
             </state>
@@ -67,7 +101,11 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/springcourse/RockMusic.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
+<<<<<<< HEAD
               <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+=======
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+>>>>>>> e7afdc1... teting dependency injection
               <folding>
                 <element signature="e#109#110#0" expanded="true" />
                 <element signature="e#141#142#0" expanded="true" />
@@ -80,7 +118,11 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/springcourse/MusicPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
+<<<<<<< HEAD
               <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+=======
+              <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+>>>>>>> e7afdc1... teting dependency injection
               <folding>
                 <element signature="e#184#185#0" expanded="true" />
                 <element signature="e#249#250#0" expanded="true" />
@@ -113,9 +155,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/springcourse/TestBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/springcourse/Music.java" />
-        <option value="$PROJECT_DIR$/src/main/java/springcourse/ClassicalMusic.java" />
         <option value="$PROJECT_DIR$/src/main/java/springcourse/RockMusic.java" />
         <option value="$PROJECT_DIR$/src/main/java/springcourse/MusicPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/springcourse/ClassicalMusic.java" />
         <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/java/springcourse/TestSpring.java" />
       </list>
@@ -242,18 +284,40 @@
       <updated>1564574081956</updated>
       <workItem from="1564574087901" duration="1315000" />
       <workItem from="1564646173961" duration="25000" />
+<<<<<<< HEAD
       <workItem from="1564650837596" duration="1781000" />
+=======
+      <workItem from="1564650837596" duration="899000" />
+      <workItem from="1564676938126" duration="1532000" />
+>>>>>>> e7afdc1... teting dependency injection
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="3138000" />
+=======
+    <option name="totallyTimeSpent" value="4081000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+>>>>>>> e7afdc1... teting dependency injection
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+>>>>>>> e7afdc1... teting dependency injection
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -261,6 +325,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
@@ -291,6 +356,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/springcourse/TestBean.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -298,9 +364,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springcourse/TestBean.java" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springcourse/RockMusic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+<<<<<<< HEAD
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding>
+            <element signature="e#408#409#0" expanded="true" />
+=======
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+>>>>>>> e7afdc1... teting dependency injection
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springcourse/ClassicalMusic.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="102">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+=======
+        <state relative-caret-position="340">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+>>>>>>> e7afdc1... teting dependency injection
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springcourse/MusicPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+<<<<<<< HEAD
+          <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+=======
+          <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+>>>>>>> e7afdc1... teting dependency injection
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/springcourse/Music.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -309,49 +431,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springcourse/ClassicalMusic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-          <folding>
-            <element signature="e#408#409#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springcourse/RockMusic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/springcourse/MusicPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-          <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="272">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
+=======
+        <state relative-caret-position="357">
+          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+>>>>>>> e7afdc1... teting dependency injection
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/springcourse/TestSpring.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="255">
           <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+=======
+        <state relative-caret-position="238">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+>>>>>>> e7afdc1... teting dependency injection
         </state>
       </provider>
     </entry>
