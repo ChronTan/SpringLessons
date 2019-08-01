@@ -9,7 +9,7 @@
 
     <bean id="testBean"
           class="springcourse.TestBean">
-        <constructor-arg value="Mihail"/>
+        <constructor-arg value="Ivan"/>
     </bean>
 
 </beans>

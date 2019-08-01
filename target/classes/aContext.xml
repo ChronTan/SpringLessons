@@ -7,9 +7,9 @@
         http://www.springframework.org/schema/context
         http://www.springframework.org/schema/context/spring-context.xsd">
 
-    <bean id="testBean"
-          class="springcourse.TestBean">
-        <constructor-arg value="Ivan"/>
+    <bean id="TBean"
+          class="springcourse.TBean">
+        <constructor-arg value="Kirill"/>
     </bean>
 
 </beans>
