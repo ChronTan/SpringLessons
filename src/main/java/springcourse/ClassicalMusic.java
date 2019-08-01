@@ -4,6 +4,6 @@ public class ClassicalMusic implements Music {
 
     @Override
     public String getSound() {
-        return "Венгерская рапсодия";
+        return "Classic: Венгерская рапсодия";
     }
 }
